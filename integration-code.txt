@@ -1,7 +1,5 @@
 Integration Code between UI and Backend 
-Integration Code between UI and Backend  Change -1 
-<<<<<<< HEAD
-Integration Code between UI and Backend  Change -3
-=======
-Integration Code between UI and Backend  Change -2
->>>>>>> edff5443c0081fc750d04240d14a635b56000a80
+Integration Related Code - Change -1 
+Integration Related Code - Change -2
+Integration Related Code - Change -3
+Integration Related Code - Change -4
