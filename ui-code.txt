@@ -1,3 +1,7 @@
 UI Related Code 
 UI Related Code - Change -1 
+<<<<<<< HEAD
 UI Related Code - Change -3
+=======
+UI Related Code - Change -2
+>>>>>>> edff5443c0081fc750d04240d14a635b56000a80
